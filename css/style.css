@@ -9,7 +9,7 @@ html {
 
 header {
   text-align: center;
-  background: url('../img/background_red.jpg');
+  background: url('img/background_red.jpg');
   background-size: cover;
   color: #ccc;
 }
